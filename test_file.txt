@@ -1,5 +1,5 @@
 A test.
 
-more text, or not.
+More text, or not.
 
 Even more!
